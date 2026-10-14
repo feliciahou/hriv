@@ -1,5 +1,29 @@
 # Changelog
 
+## [0.68.0](https://github.com/bcit-tlu/hriv/compare/frontend-v0.67.0...frontend-v0.68.0) (2026-10-14)
+
+
+### Features
+
+* add a read-only collection field to the image viewer metadata area ([#1603](https://github.com/bcit-tlu/hriv/issues/1603)) ([fb1accd](https://github.com/bcit-tlu/hriv/commit/fb1accda530dfc42ce58b6344a3052dd88e5f2cd))
+* **collections:** use an image icon for Open image and keep it same tab ([#1626](https://github.com/bcit-tlu/hriv/issues/1626)) ([095043f](https://github.com/bcit-tlu/hriv/commit/095043fb59909fb733824cceee0793a123e6db06))
+* **frontend:** "Graph View" dialog on the collection page ([#1638](https://github.com/bcit-tlu/hriv/issues/1638)) ([9257b45](https://github.com/bcit-tlu/hriv/commit/9257b457f5f5d937816929322a24fe7a5f49902d))
+* **frontend:** merge Manage → Collections into the Collections Table view ([#1649](https://github.com/bcit-tlu/hriv/issues/1649)) ([ef8a9e9](https://github.com/bcit-tlu/hriv/commit/ef8a9e928d18c5be2b616fd1b5bf0b991418cfdf))
+* **frontend:** move image metadata into an "Image information" accordion ([#1622](https://github.com/bcit-tlu/hriv/issues/1622)) ([c5627a4](https://github.com/bcit-tlu/hriv/commit/c5627a4941d57280a995ff375e9c495cf3cbeac4))
+* **frontend:** synchronized collection position map in Manage dialog ([#1616](https://github.com/bcit-tlu/hriv/issues/1616)) ([8b7af23](https://github.com/bcit-tlu/hriv/commit/8b7af235c26e39ca8fd64d35cd712781de83da57))
+* **frontend:** unified Collections page with Cards, Table and Graph views ([#1636](https://github.com/bcit-tlu/hriv/issues/1636)) ([f5cb6ac](https://github.com/bcit-tlu/hriv/commit/f5cb6ac4fc1f8302b76140ec33bccc7cf67cd4cb))
+* server-side search, sort and paging for GET /api/collections ([#1650](https://github.com/bcit-tlu/hriv/issues/1650)) ([dba702b](https://github.com/bcit-tlu/hriv/commit/dba702b2c5b3ec43e22f60c9822ebb577a4a09ba))
+
+
+### Bug Fixes
+
+* **frontend:** collections tab reset, graph toolbar/refit, FilterBar + Choose columns ([#1644](https://github.com/bcit-tlu/hriv/issues/1644)) ([a1a00a1](https://github.com/bcit-tlu/hriv/commit/a1a00a16408a0cb6472baa948655e602e04759f9))
+* **frontend:** raise graph edge contrast and say categorize in the file-only notice ([#1648](https://github.com/bcit-tlu/hriv/issues/1648)) ([1bb8438](https://github.com/bcit-tlu/hriv/commit/1bb8438e8d34e29bdaa1e25a5bb14f9c25bb870d))
+* **frontend:** rename Browse "Add Collection" button to "New collection" ([#1607](https://github.com/bcit-tlu/hriv/issues/1607)) ([a442810](https://github.com/bcit-tlu/hriv/commit/a4428104c939f49e751cadc118c8abef4de79077))
+* **frontend:** show My collections drawer in the image viewer and on Collections pages ([#1615](https://github.com/bcit-tlu/hriv/issues/1615)) ([4e0c29e](https://github.com/bcit-tlu/hriv/commit/4e0c29e2c4d958e20bef898875e383baba147bd6))
+* **frontend:** show only current collection rows and revalidate on navigation ([#1620](https://github.com/bcit-tlu/hriv/issues/1620)) ([8e471ef](https://github.com/bcit-tlu/hriv/commit/8e471ef7d4870e2b71164451658a7ed1379e393d))
+* resolve category card covers server-side so students see them ([#1646](https://github.com/bcit-tlu/hriv/issues/1646)) ([50cf478](https://github.com/bcit-tlu/hriv/commit/50cf47843d68d479de22df5122b0a7b8289645f6))
+
 ## [0.67.0](https://github.com/bcit-tlu/hriv/compare/frontend-v0.66.0...frontend-v0.67.0) (2026-10-08)
 
 
