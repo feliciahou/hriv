@@ -3,7 +3,7 @@
 Categories are folders for your images. They can hold images **and** other
 categories, so you can build a tree like `Histology → Week 3 → Lab slides`.
 
-Open **Manage → Categories** to see the full tree.
+From the top navigation bar, open **Manage → Categories** to see the full tree.
 
 ![The Manage Categories window](images/categories-manage.png)
 
