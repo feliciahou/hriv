@@ -69,7 +69,7 @@ or links to label them.
 - **Draw:** pick a tool (rectangle, ellipse, arrow/line, text, link), pick a
   colour and line width, then drag on the image.
 - **Change:** click an object to select it; drag the corners to resize.
-  Shift-click to select several, or `Ctrl+C` / `Ctrl+V` to copy and paste.
+  Shift-click to select several, or `Ctrl+C` / `Ctrl+V` (`Command(⌘)+C` / `Command(⌘)+V` on Mac) to copy and paste.
 - **Remove:** select an object and press `Delete`, or use **Delete Selected**
   in the toolbar. **Clear All** removes everything.
 - **Move the toolbar:** if the annotation toolbar covers part of the image,
@@ -90,7 +90,7 @@ turn grey for you and disappear for students. Click again to show it.
 ## Delete images
 
 - **One image:** ⋮ → **Delete** in the table (or inside Edit Details).
-- **Many:** select the checkboxes → **Delete Selected**.
+- **Many:** select the checkboxes → **Bulk Edit** → **Delete Selected**.
 
 ![Deleting an image](images/image-delete.png)
 
